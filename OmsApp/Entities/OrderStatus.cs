@@ -1,4 +1,5 @@
 namespace OmsApp.Entities;
+
 public enum OrderState
 {
     Pending,
@@ -15,7 +16,5 @@ public class OrderStatus
     public OrderState Status { get; set; }
     
     public int OrderId { get; set; }
-    
-    public Order? Order { get; set; }
-    
+    public Order Order { get; set; }  
 }

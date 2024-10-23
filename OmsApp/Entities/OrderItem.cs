@@ -1,6 +1,6 @@
 namespace OmsApp.Entities;
 
-public class OrdemItem
+public class OrderItem
 {
     public int Id { get; set; }
     

@@ -27,7 +27,7 @@ public class OrderStatusService
 
         var orderStatus = new OrderStatus
         {
-            OrderId = order.OrderId,
+            OrderId = order.Id,
             Status = orderState,
         };
         

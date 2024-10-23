@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OMS-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+261b06429d771903c1a4175ccefdf0bd4d51aea3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e69c27547556a90723f87a8e2c15a553027a5dba")]
 [assembly: System.Reflection.AssemblyProductAttribute("OMS-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OmsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
