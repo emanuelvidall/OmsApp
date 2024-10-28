@@ -3,7 +3,7 @@ using OmsApp.Entities;
 
 namespace OmsApp.Services;
 
-public class OrderStatusService
+public class OrderStatusService : IOrderStatusService
 {
     private readonly AppDbContext _context;
 
