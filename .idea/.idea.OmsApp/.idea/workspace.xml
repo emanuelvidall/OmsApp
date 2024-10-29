@@ -12,11 +12,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c950596-3f5e-43d4-be4b-bc65a5d8b287" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OmsApp/Repositories/OrderRepository/IOrderRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OmsApp/Repositories/OrderRepository/OrderRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OmsApp/Controllers/Order/OrderController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OmsApp/DTOs/Order/CreateOrderDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OmsApp/DTOs/Order/OrderDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OmsApp/DTOs/OrderItem/CreateOrderItemDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OmsApp/Services/OrderService/IOrderService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OmsApp/Services/OrderService/OrderService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OmsApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OmsApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OmsApp/Repositories/IOrderStatusRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OmsApp/Repositories/OrderStatusRepository/IOrderStatusRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OmsApp/Repositories/OrderStatusRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OmsApp/Repositories/OrderStatusRepository/OrderStatusRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmsApp/Controllers/OrderStatusController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OmsApp/Controllers/OrderStatus/OrderStatusController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmsApp/DTOs/OrderStatusCreateDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OmsApp/DTOs/OrderStatus/OrderStatusCreateDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmsApp/OmsApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/OmsApp/OmsApp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmsApp/Services/IOrderStatusService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OmsApp/Services/OrderStatusService/IOrderStatusService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmsApp/Services/OrderStatusService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OmsApp/Services/OrderStatusService/OrderStatusService.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +169,7 @@
       <updated>1729641206751</updated>
       <workItem from="1729641207786" duration="1591000" />
       <workItem from="1729801919732" duration="1058000" />
-      <workItem from="1729802997961" duration="8855000" />
+      <workItem from="1729802997961" duration="13817000" />
     </task>
     <servers />
   </component>
