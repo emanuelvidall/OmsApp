@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emanuelsilva/Downloads/projetos/oms-app/OmsApp/OmsApp/OmsApp.csproj": {}
+    "C:\\Users\\emanu\\RiderProjects\\WebApplication2\\OmsApp\\OmsApp.csproj": {}
   },
   "projects": {
-    "/Users/emanuelsilva/Downloads/projetos/oms-app/OmsApp/OmsApp/OmsApp.csproj": {
+    "C:\\Users\\emanu\\RiderProjects\\WebApplication2\\OmsApp\\OmsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emanuelsilva/Downloads/projetos/oms-app/OmsApp/OmsApp/OmsApp.csproj",
+        "projectUniqueName": "C:\\Users\\emanu\\RiderProjects\\WebApplication2\\OmsApp\\OmsApp.csproj",
         "projectName": "OmsApp",
-        "projectPath": "/Users/emanuelsilva/Downloads/projetos/oms-app/OmsApp/OmsApp/OmsApp.csproj",
-        "packagesPath": "/Users/emanuelsilva/.nuget/packages/",
-        "outputPath": "/Users/emanuelsilva/Downloads/projetos/oms-app/OmsApp/OmsApp/obj/",
+        "projectPath": "C:\\Users\\emanu\\RiderProjects\\WebApplication2\\OmsApp\\OmsApp.csproj",
+        "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emanu\\RiderProjects\\WebApplication2\\OmsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/emanuelsilva/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -89,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/emanuelsilva/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

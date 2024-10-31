@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using OmsApp.Repositories.CustomerRepository;
 using OmsApp.Repositories.OrderRepository;
 using OmsApp.Services;
+using OmsApp.Services.CustomerService;
 using OmsApp.Services.OrderService;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +17,8 @@ builder.Services.AddControllers();
 builder.Services.AddScoped<IOrderStatusService, OrderStatusService>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
+builder.Services.AddScoped<ICustomerService, CustomerService>();
 
 var app = builder.Build();
 
